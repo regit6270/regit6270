@@ -4,13 +4,13 @@
 
 - Passionate about building smart solutions to complex problems
 
-- 🔭 I’m currently working on [NSE Zero and other pet projects]((will be available soon...))
+- 🔭 I’m currently working on [NSE Zero and other pet projects](will be available soon...)
 
 - 🌱 I’m currently learning **GenAI**
 
-- 🤝 I’m looking for help with **referral in quant companies/product based companies for internships and full time roles**
+- 🤝 I’m looking for help with **referral in quant companies/product-based companies for internships and full-time roles**
 
-- 📝 I regularly read articles on [Evolving AI solutions in Fin-Tech Space](Evolving AI solutions in Fin-Tech Space)
+- 📝 I regularly read articles on [Evolving AI solutions in Fin-Tech Space]
 
 - 💬 Ask me about **Algebra, Puzzles, Math, Finance, Trading**
 
