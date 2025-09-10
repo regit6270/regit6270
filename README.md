@@ -4,7 +4,7 @@
 
 - Passionate about building smart solutions to complex problems
 
-- 🔭 I’m currently working on [NSE Zero and other pet projects](will be available soon...)
+- 🔭 I’m currently working on [NSE Zero - personal pet project to develop a small-scale HFT platform](will be available soon...)
 
 - 🌱 I’m currently learning **GenAI**
 
