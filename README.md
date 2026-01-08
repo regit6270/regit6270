@@ -4,7 +4,7 @@
 
 - Passionate about building smart solutions to complex problems
 
-- 🔭 I’m currently working on [NSE Zero - personal pet project to develop a small-scale HFT platform](will be available soon...)
+- 🔭 I’m currently working on **NSE Zero** - personal pet project to develop a small-scale HFT platform (will be available soon...).
 
 - 🌱 I’m currently learning **GenAI**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **aditya.rrr30@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1c_VzGjxYvjSMOsJJj0eDFWgm5SU331t6/view?usp=sharing](https://drive.google.com/file/d/1c_VzGjxYvjSMOsJJj0eDFWgm5SU331t6/view?usp=sharing)
+- 📄 Know about my experiences in my [Updated Resume](https://drive.google.com/file/d/1Nig66G9qXzLSIT8IvYqLxhj0LeS4w1mb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
