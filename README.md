@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **GenAI**
 
-- 🤝 I’m looking for help with **referral in quant companies/product-based companies for internships and full-time roles**
+- 🤝 I’m looking for help with **referral in Agentic AI/GenAI/Quant Companies/Product-Based companies for internships and full-time roles**
 
-- 📝 I regularly read articles on [Evolving AI solutions in Fin-Tech Space]
+- 📝 I regularly read articles on evolving AI solutions in the Fin-Tech Space
 
-- 💬 Ask me about **Algebra, Puzzles, Math, Finance, Trading**
+- 💬 Ask me about **Gen AI, Algebra, Puzzles, Math, Finance, Trading**
 
 - 📫 How to reach me **aditya.rrr30@gmail.com**
 
